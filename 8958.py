@@ -7,6 +7,7 @@ for _ in range(N):
     total = 0
 
     for i in arr:
+        
         if i == 'O':
             cnt += 1
             total += cnt
