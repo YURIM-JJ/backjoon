@@ -8,7 +8,6 @@ b_num = 0
 
 for a in A:
     a_lst.append(a)
-
 for b in B:
     b_lst.append(b)
 
